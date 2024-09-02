@@ -7,11 +7,11 @@ This project aims to classify malware and evaluate the impact of obfuscation tec
 X. He, L. Xu and C. Cha, "Malicious JavaScript Code Detection Based on Hybrid Analysis," 2018 25th Asia-Pacific Software Engineering Conference (APSEC), Nara, Japan, 2018, pp. 365-374, doi: 10.1109/APSEC.2018.00051.
 https://ieeexplore.ieee.org/abstract/document/8719574
 
-Wang, Y., Cai, W. D., & Wei, P. C. (2016). A deep learning approach for detecting malicious JavaScript code. Security and Communication Networks, 9(11), 1520-1534.
-https://onlinelibrary.wiley.com/doi/abs/10.1002/sec.1441
-
 Aryal, K., Gupta, M., & Abdelsalam, M. (2021). A survey on adversarial attacks for malware analysis. arXiv preprint arXiv:2111.08223.
 https://arxiv.org/abs/2111.08223
+
+Wang, Y., Cai, W. D., & Wei, P. C. (2016). A deep learning approach for detecting malicious JavaScript code. Security and Communication Networks, 9(11), 1520-1534.
+https://onlinelibrary.wiley.com/doi/abs/10.1002/sec.1441
 
 ## Overview
 
