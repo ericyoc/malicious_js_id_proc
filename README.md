@@ -75,4 +75,4 @@ The current implementation provides a foundation for evaluating the impact of ob
    - Provides insights into model performance across varying obfuscation levels, helping to assess the robustness of classification techniques.
 
 ## Disclaimer
-This project and its associated code are provided for educational and research purposes only. The effectiveness of the techniques demonstrated may vary depending on the specific characteristics of the data and the implementation details. Use of the code in production environments or for critical applications should be approached with caution and proper validation. The authors are not responsible for any issues or damages that may arise from the use of this code.
+This project and its associated code are provided for educational and research purposes only. The effectiveness of the techniques demonstrated may vary depending on the specific characteristics of the data and the implementation details. Use of the code in production environments or for critical applications should be approached with caution and proper validation. The author is not responsible for any issues or damages that may arise from the use of this code.
