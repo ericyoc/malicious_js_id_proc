@@ -36,6 +36,7 @@ The script performs the following key tasks:
 BODMAS: An Open Dataset for Learning based Temporal Analysis of PE Malware
 Limin Yang, Arridhana Ciptadi, Ihar Laziuk, Ali Ahmadzadeh, Gang Wang
 4th Deep Learning and Security Workshop, 2021
+https://whyisyoung.github.io/BODMAS/
 
 ### `bodmas_malware_category.csv`
 - **Description**: Contains malware samples with categories.
