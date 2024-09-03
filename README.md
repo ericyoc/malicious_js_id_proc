@@ -1,4 +1,4 @@
-# Malicious JavaScript Classification with Obfuscation Analysis
+# Malicious JavaScript Classification Analysis
 
 This project aims to classify malware and evaluate the impact of obfuscation techniques on model performance. The provided Python script utilizes machine learning techniques to preprocess data, train a neural network, and optimize hyperparameters.
 
