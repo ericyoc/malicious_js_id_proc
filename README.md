@@ -6,11 +6,6 @@ This project aims to classify malware dataset and evaluate the impact of obfusca
 
 - Aryal, K., Gupta, M., & Abdelsalam, M. (2021). [A survey on adversarial attacks for malware analysis](https://arxiv.org/abs/2111.08223). arXiv preprint arXiv:2111.08223.
 
-### Older Work
-
-- X. He, L. Xu and C. Cha, (2018). [Malicious JavaScript Code Detection Based on Hybrid Analysis](https://ieeexplore.ieee.org/abstract/document/8719574). 25th Asia-Pacific Software Engineering Conference (APSEC), Nara, Japan, pp. 365-374.
-- Wang, Y., Cai, W. D., & Wei, P. C. (2016). [A deep learning approach for detecting malicious JavaScript code](https://onlinelibrary.wiley.com/doi/abs/10.1002/sec.1441). Security and Communication Networks, 9(11), 1520-1534.
-
 ## Overview
 
 The script performs the following key tasks:
