@@ -59,6 +59,10 @@ Yang, L., Ciptadi, A., Laziuk, I., Ahmadzadeh, A., & Wang, G. (2021). [BODMAS: A
 - Visualizes training and validation accuracy across different obfuscation levels for both obfuscated and deobfuscated data.
 - Conducts statistical significance testing to compare results.
 
+### Statistical Significance Testing
+
+Statistical significance testing was conducted to compare the model's performance between obfuscated and deobfuscated datasets. In the test, an F-statistic of `1.588` was calculated, with a p-value of `0.254`. This suggests that the differences in performance between the obfuscated and deobfuscated datasets are not statistically significant, indicating that obfuscation did not have a large impact on the model's ability to classify the malware.
+
 ## Results
 
 The implementation provides:
@@ -68,6 +72,27 @@ The implementation provides:
 - Optimized model hyperparameters through grid search.
 - Insights into model robustness across varying obfuscation levels.
 - Statistical analysis of the differences between obfuscated and deobfuscated results.
+
+### Performance Summary
+
+The table below summarizes the performance of the model across different levels of obfuscation and deobfuscation:
+
+| Obfuscation Level |  Data Type   | Accuracy | ROC AUC | Precision | Recall | F1 Score |
+|-------------------|--------------|----------|---------|-----------|--------|----------|
+|        none       |  obfuscated  |  0.9999  |  1.0000 |   0.9997  | 1.0000 |  0.9998  |
+|        none       | deobfuscated |  0.9995  |  0.9999 |   0.9982  | 1.0000 |  0.9991  |
+|        low        |  obfuscated  |  0.9999  |  0.9999 |   0.9997  | 1.0000 |  0.9998  |
+|        low        | deobfuscated |  0.9999  |  0.9999 |   0.9997  | 1.0000 |  0.9998  |
+|       medium      |  obfuscated  |  0.9999  |  0.9999 |   0.9997  | 1.0000 |  0.9998  |
+|       medium      | deobfuscated |  0.9998  |  0.9999 |   0.9994  | 1.0000 |  0.9997  |
+|        high       |  obfuscated  |  0.9999  |  0.9999 |   0.9997  | 1.0000 |  0.9998  |
+|        high       | deobfuscated |  0.9999  |  0.9999 |   0.9997  | 1.0000 |  0.9998  |
+
+These results demonstrate that the model performs consistently well across different obfuscation levels. The minor variations in accuracy, precision, recall, and F1 score indicate a high robustness of the model, suggesting that the obfuscation techniques used do not significantly hinder the model's ability to classify malware accurately.
+
+## Significance to Cybersecurity
+
+These findings have important implications for cybersecurity, particularly in the detection and classification of malware. The ability to maintain high accuracy and robustness across different levels of obfuscation means that the model can be relied upon even when adversaries employ obfuscation techniques to disguise their malicious code. This strengthens the defense mechanisms against sophisticated malware, contributing to a more secure computing environment.
 
 ## Future Improvements
 
