@@ -1,6 +1,6 @@
 # Malware Dataset Classification with Obfuscation and Deobfuscation 
 
-This project aims to classify using a malware dataset to evaluate the impact of obfuscation techniques used on the malware dataset and the resultant model performance. It utilizes machine learning techniques to preprocess data, train neural networks, and optimize hyperparameters, with a focus on comparing obfuscated and deobfuscated model outcomes.
+This project evaluates the impact of classification models when using obfuscation techniques on a malware dataset, aiming to quantify the resilience of these models against evolving malware threats. The findings provide valuable insights to inform the development of more robust, obfuscation-resilient approaches for enhancing cybersecurity.
 
 ## Motivating Articles
 
