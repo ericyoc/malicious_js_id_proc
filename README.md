@@ -89,18 +89,6 @@ The table below summarizes the performance of the model across different levels 
 
 These results demonstrate that the model performs consistently well across different obfuscation levels. The minor variations in accuracy, precision, recall, and F1 score indicate a high robustness of the model, suggesting that the obfuscation techniques used do not significantly hinder the model's ability to classify malware accurately.
 
-## Significance to Cybersecurity
-
-These findings have important implications for cybersecurity, particularly in the detection and classification of malware. The ability to maintain high accuracy and robustness across different levels of obfuscation means that the model can be relied upon even when adversaries employ obfuscation techniques to disguise their malicious code. This strengthens the defense mechanisms against sophisticated malware, contributing to a more secure computing environment.
-
-## Future Improvements
-
-- Implement more advanced feature extraction techniques.
-- Explore more realistic and diverse obfuscation methods.
-- Investigate the use of different neural network architectures.
-- Enhance real-time adaptability of the model.
-- Incorporate emerging threat vectors in the analysis.
-
 ## Disclaimer
 
 This project and its associated code are provided for educational and research purposes only. The effectiveness of the techniques demonstrated may vary depending on the specific characteristics of the data and the implementation details. Use of the code in production environments or for critical applications should be approached with caution and proper validation. The author is not responsible for any issues or damages that may arise from the use of this code.
