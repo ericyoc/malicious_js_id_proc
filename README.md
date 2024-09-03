@@ -41,6 +41,8 @@ Yang, L., Ciptadi, A., Laziuk, I., Ahmadzadeh, A., & Wang, G. (2021). [BODMAS: A
 - `bodmas_malware_category.csv`: Contains malware samples with categories.
 - `bodmas_metadata.csv`: Contains metadata associated with malware samples.
 
+BODMAS is a dataset released in collaboration with Blue Hexagon, containing 57,293 malware samples and 77,142 benign samples collected between August 2019 and September 2020, with detailed family information for research purposes.
+
 ## Code and Functionality
 
 ### Data Loading and Preprocessing
