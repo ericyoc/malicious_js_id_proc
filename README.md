@@ -75,6 +75,8 @@ The implementation provides:
 
 ### Performance Summary
 
+![](https://github.com/ericyoc/malicious_js_id_proc/blob/main/performance_plot.png)
+
 The table below summarizes the performance of the model across different levels of obfuscation and deobfuscation:
 
 | Obfuscation Level |  Data Type   | Accuracy | ROC AUC | Precision | Recall | F1 Score |
