@@ -34,7 +34,7 @@ The script performs the following key tasks:
 
 ## Datasets
 
-We use the BODMAS dataset:
+BODMAS dataset:
 
 Yang, L., Ciptadi, A., Laziuk, I., Ahmadzadeh, A., & Wang, G. (2021). [BODMAS: An Open Dataset for Learning based Temporal Analysis of PE Malware](https://whyisyoung.github.io/BODMAS/). 4th Deep Learning and Security Workshop.
 
