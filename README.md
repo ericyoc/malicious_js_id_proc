@@ -92,3 +92,12 @@ These results demonstrate that the model performs consistently well across diffe
 ## Disclaimer
 
 This project and its associated code are provided for educational and research purposes only. The effectiveness of the techniques demonstrated may vary depending on the specific characteristics of the data and the implementation details. Use of the code in production environments or for critical applications should be approached with caution and proper validation. The author is not responsible for any issues or damages that may arise from the use of this code.
+
+## License
+Copyright 2024 Eric Yocam
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
